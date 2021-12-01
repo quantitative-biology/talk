@@ -1,0 +1,170 @@
+---
+title: 'Building quantitative skills for biologists: <br>Self-confidence and training
+  alternatives'
+author: "Kim Cuddington (https://ecotheory.ca)"
+date: "01/12/2021"
+output: ioslides_presentation
+smaller: true
+css: quantbiotalk.css
+
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Quantitative skills: What are they?
+
+
+- Math
+- Stats
+- Computation
+
+- Open science & collaboration
+
+## Math
+- creating predictive models based on our knowledge of biology
+(e.g., Modelling disease dynamics)
+  
+```{r, out.width = "60%", fig.align = 'center'}
+include_graphics("disease.jpeg")
+```
+
+<font size="2">Cobey, S. (2020). Modeling infectious disease dynamics. _Science_, _368_(6492), 713–714. [https://www.science.org/doi/full/10.1126/science.abb5659](https://www.science.org/doi/full/10.1126/science.abb5659)</font>
+
+## Stats
+- handling complicated statistical analyses
+(e.g., looking at climate change impacts)
+
+```{r, out.width = "70%",fig.align = 'center'}
+include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-018-0067-3/MediaObjects/41558_2018_67_Fig1_HTML.jpg")
+```
+- Cohen et al. (2018) used a trivariate meta-analysis across 1,011 time series to determine that phenology occurred earlier through time as temperature increased
+
+<font size="2">Cohen et al. (2018). A global synthesis of animal phenological responses to climate change. _Nature Climate Change_, _8_(3), 224–228. [https://doi.org/10.1038/s41558-018-0067-3](https://doi.org/10.1038/s41558-018-0067-3)</font>
+
+## Computation
+- using algorithms to assess big data
+e.g., harnassing genetic data to inform medical issues
+```{r, out.width = "70%",fig.align = 'center'}
+include_graphics("https://journals.plos.org/ploscompbiol/article/figure/image?size=large&download=&id=10.1371/journal.pcbi.1006258.g002")
+```
+
+<font size="2">Moradigaravand et al. (2018). Prediction of antibiotic resistance in Escherichia coli from large-scale pan-genome data. _PLoS Computational Biology_, _14_(12), e1006258. [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006258](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006258)</font>
+
+## Open Science
+
+- providing data, source code and dynamic documents to make work completely reproducible 
+- Note this document and figures provided at https:/github.com/quantitative-biology/talk
+
+- e.g., code from Cohen et al. (2018)
+
+```{r, out.width = "70%", fig.align = 'center'}
+include_graphics("Cohencode.png")
+```
+
+## Apparent Problem: Lack of training
+1. Young scientists with an interest in biology often self-select away from training in mathematics, statistics and computing
+2. Training may not be required by their programs <br>
+(e.g., only 1⁄4 of ecology PhD programs in the US even require a statistics course)
+```{r, out.width = "40%", fig.align = 'center'}
+include_graphics("https://esajournals.onlinelibrary.wiley.com/cms/asset/1368299e-2ffb-454f-9bee-4178064950bf/ecs21394-fig-0004-m.png")
+```
+<font size="2">Touchon, J. C., & McCoy, M. W. (2016). The mismatch between current statistical practice and doctoral training in ecology. _Ecosphere_, _7_(8), e01394. [https://doi.org/10.1002/ecs2.1394](https://doi.org/10.1002/ecs2.1394)</font>
+
+## Is this really a problem?
+
+- Most biology undergraduates are required to take an introductory calculus, statistics, or computational literacy class, 
+- <b><span style="color:red">BUT</span></b> the relationship between these quantitative techniques and biological concepts may not be obvious (Eaton and Highlander 2017)
+- <b><span style="color:red">AND</span></b> in spite of recommendations (National Research Council et al 2003), biology courses usually have little quantitative material 
+- <b><span style="color:red">FINALLY</span></b> in many cases institutions or departments lack faculty expertise in the relevant areas (Williams et al. 2019)
+
+## That is, the during the training of undergraduate biologists we lie about the need for quantitative methods (by omission of course...)
+- Graduate students in biology may not even know they don't have the training they need, or
+- iff they have such training they may not connect it to doing biological research
+
+## New biology grads may lack quantiative self-confidence
+
+- May have selected biology because it was "less quantitative"
+- Student have not had opportunities to practice quantiative skills
+- may believe they cannot develop these skills, or that it will be very difficult/uncomfortable/soul-destroying
+<br>
+
+- Consequently, may self-select away from learning these skills
+
+## Quantiative self-confidence
+
+
+## Two stages at which quantitative self-efficacy is critical
+1. students lacking self-confidence may self-select out of initial training opportunities, or 
+2. may not actively use quantitative skills in their own research even after training
+
+```{r, out.width = "60%", fig.align = 'center'}
+include_graphics("Main_concept_v3.png")
+```
+
+## Failing to solve a problem is part of the research and learning process, not a commentary on self-identity
+
+- Many graduate students enter graduate school with very little experience in academic failure (Ward-Penny et al. 2011)
+- Learning quantitative methods requires active approaches where students engage with problems and fail to solve them at first
+- It is essential that early failures do not undermine confidence so much that efforts to learn are abandoned
+
+## It's time to stop hiding failure
+
+Students reading published papers may not realize that several quantitative analyses were tried and failed, were implemented improperly and redone, or failed to answer the research question and were abandoned. 
+
+Even the most sophisticated quantitative methods by the most distinguished researchers might fail on a student’s problem,  but
+
+students need the confidence to recognize when the method or its implementation is at fault, rather than engaging in self-criticism when a particular approach doesn’t work. 
+
+## Normalize failure to build self-confidence
+
+Students can develop a resilience to failure that builds on the recognition that it is a normal part of acquiring new skills
+
+For example, we can
+- have students can experience the need for knowledge in some areas after failing to solve a problem,
+- normalize failure by ensuring students observe in instructors (e.g., write code live in class, with the inevitable resulting mistakes (Johnston et al. 2019)
+- have instructors and peers talk about statistics or mathematics anxiety
+- be careful when assigning group work, students with less experience need to do more quantiative work, not less, than experienced peers
+
+
+
+## Positive feedback for skill acquisition and application
+Overcoming self-confidence barriers by normalizing failure can initiate a positive reinforcing loop
+
+- Lack of self-confidence can serve as a barrier between each stage (cross-hatching), but 
+- if students persevere to the application stage, they are more likely to begin the process again, and 
+- would likely face reduced roadblocks from lack of self-confidence
+
+```{r, out.width = "90%", fig.align = 'center'}
+include_graphics("feedback.png")
+```
+
+## Self-confidence and equity-seeking groups
+
+
+## I'm feeling confident! How do I learn to do all this stuff??
+- there's way too much stuff!!
+- combine short-term and informal learning with "classic" course work
+
+```{r, out.width = "90%", fig.align = 'center'}
+include_graphics("quantskills_trainingv2.png")
+```
+
+
+
+
+## Co-authors
+Karen C. Abbott, Frederick R. Adler, Mehmet Aydeniz, Rene Dale, Louis J. Gross, Alan Hastings, Elizabeth A. Hobson, Vadim Karatayev, Alexander Killion, Aasakiran Madamanchi, Michelle Marraffini, Audrey McCombs, Widodo Samyono, Shin-Han Shiu, Karen H. Watanabe, Easton R. White (https://tinyurl.com/2pvvxe3n)
+
+Andrew M. Edwards, Brian Ingalls (https://www.quantitative-biology.ca)
+
+## Funding
+
+The Quantitative Biology in Life Science Graduate Programs workshop from which this work arose which was supported by funding from the Burroughs Wellcome Fund, from National Science Foundation Award DBI-1300426 for NIMBioS, with additional support from the University of Tennessee. The Workshop arose from a partnership between NIMBioS and the Southeast Center for Mathematics and Biology (SCMB). 
+
+
+Support for the development of online training materials comes from the Government of Ontario through a grant from eCampusOntario, and the support of Fisheries and Oceans Canada and the Faculty of Science, University of Waterloo (https://www.quantitative-biology.ca)
+
+

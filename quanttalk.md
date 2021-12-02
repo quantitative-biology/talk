@@ -24,7 +24,7 @@ Andrew M. Edwards, Brian Ingalls <br>
 3. Normalizing failure to build self confidence
 4. Getting the training you need with limited time
 
-## What are quantitative skills
+## What are quantitative skills?
 - Math
 - Stats
 - Computation
@@ -67,7 +67,7 @@ Cohen et al. (2018) used a trivariate meta-analysis across 1,011 time series to 
 <div align="right"><font size="2">https://xkcd.com/2116/</font></div>
 
 ## Apparent Problem: Lack of training
-1. Young scientists with an interest in biology often self-select away from training in mathematics, statistics and computing
+1. New scientists with an interest in biology often self-select away from training in mathematics, statistics and computing
 2. Training may not be required by their programs <br>
 (e.g., only 1⁄4 of ecology PhD programs in the US even require a statistics course)
 <img src="https://esajournals.onlinelibrary.wiley.com/cms/asset/1368299e-2ffb-454f-9bee-4178064950bf/ecs21394-fig-0004-m.png" width="40%" style="display: block; margin: auto;" />
@@ -80,15 +80,15 @@ Cohen et al. (2018) used a trivariate meta-analysis across 1,011 time series to 
 - <b><span style="color:red">AND</span></b> in spite of recommendations (National Research Council et al 2003), biology courses usually have little quantitative material 
 - <b><span style="color:red">FINALLY</span></b> in many cases institutions or departments lack faculty expertise in the relevant areas (Williams et al. 2019)
 
-## That is, the during the training of undergraduate biologists we lie about the need for quantitative methods (by omission of course...)
+## That is, during the training of undergraduate biologists we lie about the need for quantitative methods <br> (by omission of course...)
 
 And this is a problem because:
 
-- Graduate students in biology may not even know they don't have the training they need, or
+- New scientists in biology may not even know they don't have the training they need, or
 - if they have such training they may not connect it to doing biological research, or
 - if they realize that they need training, they may not be able to find opportunties at their institution
 
-<b><span style="color:red">BUT</span></b> it is most likely that they will have the opportunity, but will lack the self-confidence to take full advantage of it<br>
+<b><span style="color:red">BUT</span></b> even if they have the opportunity, they may lack the self-confidence to take full advantage of it<br>
 
 # Quantitative self-confidence
 ## Quantitative self-confidence
@@ -96,16 +96,16 @@ And this is a problem because:
 - math self-confidence had a stronger positive impact on mathematics problem-solving than prior experience (Pajares and Miller 1994)
 - individuals that underestimate their ability to perform quantitative tasks may develop learning aversion or anxiety (Chen Musgrove and Schussler 2020)
 
-## New graduate students in biological research may lack quantitative self-confidence
+## New scientists in biological research may lack quantitative self-confidence
 
-Grad students may:
+New scientists may:
 
 - have originally selected biology as undergrads because it was "less quantitative" 
 - not have had opportunities to practice quantitative skills in their undergrad program
 - believe they cannot develop these skills, or that it will be very difficult/uncomfortable/soul-destroying
 <br>
 
-$\rightarrow$ Consequently, may self-select away from learning these skills
+<span style="color:red">$\rightarrow$</span> Consequently, may self-select away from learning these skills
 
 ## Self-confidence and equity-seeking groups
 - quantitative skills are often tied to stereotypes related to gender and race
@@ -114,23 +114,23 @@ $\rightarrow$ Consequently, may self-select away from learning these skills
 strongly affected by interactions with peers, verbal encouragement, and a social community (Charleston and Leon 2016)
 
 <img src="https://imgs.xkcd.com/comics/how_it_works.png" width="60%" style="display: block; margin: auto;" />
-<font size="2"><div align="center">https://xkcd.com/385</div></font>
+<font size="2"><div align="center">https://xkcd.com/385/ </div></font>
 
 ## Two stages at which quantitative self-confidence is critical
-1. students lacking self-confidence may self-select out of initial training opportunities, or 
-2. may not actively use quantitative skills in their own research even after training
+1. self-selection for training opportunities
+2. using quantitative skills in research
 
-<img src="Main_concept_v3.png" width="60%" style="display: block; margin: auto;" />
+<img src="Main_concept_v3.png" width="65%" style="display: block; margin: auto;" />
 
 # To improve self-confidence, normalize failure
-## It's time to stop hiding failure, and start building student self-confidence
+## It's time to stop hiding failure, and start building self-confidence
 
 - science publications hide all the failure that preceeded success
-- reading a published paper, we may not realize that several quantitative analyses were tried and failed, were implemented improperly and redone, or failed to answer the research question and were abandoned 
+- new scientists may not realize that several quantitative analyses were tried and failed, were implemented improperly and redone, or failed to answer the research question and were abandoned 
 
-- in addition, even sophisticated quantitative methods developed by distinguished researchers might fail on a student’s particular problem
+- even sophisticated quantitative methods developed by distinguished researchers might fail on a particular problem
 
-- so students need the confidence to recognize when the method or its implementation is at fault, rather than engaging in self-criticism when a particular approach doesn’t work. 
+- new scientists need the confidence to recognize when the method or its implementation is at fault, rather than engaging in self-criticism when a particular approach doesn’t work. 
 
 ## Failing to solve a problem is part of the research and learning process, not a commentary on self-identity
 
@@ -149,10 +149,10 @@ strongly affected by interactions with peers, verbal encouragement, and a social
 
 ## Normalize failure to build self-confidence
 
-Some techniques can help students can develop a resilience to failure, by building recognition that it is a normal part of acquiring new skills
+Some techniques can help develop a resilience to failure, by building recognition that it is a normal part of acquiring new skills
 
 <font size="4"><div style="float: left; width: 55%">
-- have students experience the need for knowledge in some areas after failing to solve a problem,</font>
+- have students experience the need for knowledge in new areas by failing to solve a problem with known methods</font>
 - <font size="4">normalize failure by ensuring students observe it in instructors (e.g., write code live in class, Johnston et al. 2019)</font>
 - <font size="4">have instructors and peers talk about statistics or mathematics anxiety</font>
 - <font size="4">be careful when assigning group work, because students with less experience need to do more quantitative work, not less, than experienced peers</font>
@@ -186,15 +186,60 @@ Overcoming self-confidence barriers by normalizing failure can initiate a positi
 - 3-5 hours
 - very basic overviews
 - pointers to more advanced materials
-- very practical... make sure the student can DO something by the end
+- very practical... make sure the student can <span style="color:red">DO</span> something by the end
 
+<img src="Frontpage.png" width="60%" style="display: block; margin: auto;" />
+<font size="2"><div align="center">https://quantitative-biology.ca </div></font>
 
 ## Our approach: Written by biologists for biologists
 - techniques chosen are those we find most helpful
 - illustrate how we use these skills as researchers (in a simplified way)
 - audience is graduate students and professionals in biological research
 
+## Our approach: Failure up front
+- live coding <span style="color:red">$\rightarrow$<span> with naturally occuring screwups to normalize failure
+- we EXPECT there to be errors (all authors are human, even Brian?), and we will treat this is as a live document
 
+<img src="Livecoding.png" width="60%" style="display: block; margin: auto;" />
+<font size="2"><div align="center">https://www.quantitative-biology.ca/git-and-github.html#using-git-and-github-to-collaborate-with-colleagues </div></font>
+
+## Our approach: Include code and demos
+- R for coding, since it is the most frequently used
+- provide worked examples to get folks up and running
+
+<img src="Codeforquickstart.png" width="60%" style="display: block; margin: auto;" />
+<font size="2"><div align="center">https://www.quantitative-biology.ca/machine-learning-and-classification.html#our-first-ann </div></font>
+
+## Our approach: Some exercises with worked answers 
+
+- so you can build confidence by working independently
+- right now: answer keys at the end of chapters
+- might move to a more interactive approach (with shiny and learnr)
+
+<img src="Exercise.png" width="60%" style="display: block; margin: auto;" />
+<font size="2"><div align="center">https://www.quantitative-biology.ca/machine-learning-and-classification.html#answer-key-1 </div></font>
+
+## My thoughts for modifications 
+- personally really enjoyed having a MOOC community (when these were still mostly free)
+- need to build a <span style="color:red">community of practice</span> where comments can be made (could use hypothes.is?, looking for bullet proof stability)
+
+- right now: could use github issues
+<img src="githubissues.png" width="60%" style="display: block; margin: auto;" />
+
+<font size="2"><div align="center">https://github.com/quantitative-biology/Basics/issues </div></font>
+
+## Future plans
+- want to add a chapter on regression and machine learning
+- time series? spatial stuff? 
+- (personally can't stand ArcGIS...)
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10530-021-02645-x/MediaObjects/10530_2021_2645_Fig4_HTML.png" width="60%" style="display: block; margin: auto;" />
+<font size="2">Cuddington, K., Sobek-Swant, S., Drake, J., Lee, W., & Brook, M. (2021). Risks of giant hogweed (Heracleum mantegazzianum) range increase in North America. Biological Invasions. https://doi.org/10.1007/s10530-021-02645-x </font>
+
+## Acknowledgements
+We thank Luwen Chang and Matthew Zhou for their amazing learning curves, and subsequent help coding up the modules. The eCampusOntario grant also funded several students to evaluate an early version of the materials. Lina Aragon Baquero, Lauren Banks, Madison Brook, Jacob Burbank, Nicole Gauvreau and Aranksha Dilip Thakor provided valuable feedback.
+
+The Git and GitHub module builds upon workshop materials that were originally developed with Chris Grandin (DFO), who AME also thanks for assistance with the module.
 
 
 ## Funding
@@ -204,4 +249,19 @@ The Quantitative Biology in Life Science Graduate Programs workshop from which t
 
 Support for the development of online training materials comes from the Government of Ontario through a grant from eCampusOntario, and the support of Fisheries and Oceans Canada and the Faculty of Science, University of Waterloo (https://www.quantitative-biology.ca)
 
+## Other references
+<font size="1">Bandura A. 1997. Self-self Efficacy: The Exercise of Control. Freeman, New York.</font>
+<br><font size="1">Charleston L, Leon R. 2016. Constructing self-efficacy in STEM graduate education. Journal for Multicultural Education 10: 152–166.</font>
+<br><font size="1">Chen Musgrove MM, Schussler EE. 2020. The Ph.D. panic: examining the relationships among teaching anxiety, teaching self-efficacy, and coping in biology graduate teaching assistants (GTAs). bioRxiv DOI 10.1101/2020.02.07.938597.</font>
+<br><font size="1">Eaton CD, Highlander HC. 2017. The case for biocalculus: design, retention, and student performance. CBE—Life Sciences Education 16: ar25.</font>
+<br><font size="1">Flanagan K, Einarson J. 2017. Gender, math confidence, and grit: relationships with quan- titative skills and performance in an undergraduate biology course. CBE—Life Sciences Education 16: ar47.</font>
+<br><font size="1">Johnston L, et al. 2019. A graduate student-led participatory live-coding quantitative methods course in R: experiences on initiating, developing, and teaching. Journal of Open Source Education 2: 49.</font>
+<br><font size="1">National Research Council et al. 2003. BIO2010: Transforming undergraduate education for future research biologists. National Academies Press.</font>
+<br><font size="1">Pajares F, Miller MD. 1994. Role of self-efficacy and self-concept beliefs in mathematical problem solving: a path analysis. Journal of Educational Psychology 86: 193.</font>
+<br><font size="1">Ward-Penny R, Johnston-Wilder S, Lee C. 2011. Exit interviews: undergraduates who leave mathematics behind. For the Learning of Mathematics 31: 21–26.</font>
+<br><font size="1">Williams JJ, et al. 2019. Barriers to integration of bioinformatics into undergraduate life sciences education: a national study of US life sciences faculty uncover significant barriers to integrating bioinformatics into undergraduate instruction. PloS one 14: e0224288.</font>
 
+## What do you think?
+
+- I'm still proofreading
+- always want your feedback (https://www.quantitative-biology.ca/index.html#feedback)
